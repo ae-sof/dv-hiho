@@ -1,0 +1,13 @@
+Username,Coffee Type,Size,Ice,Sugar,Add-ons,Price,Booking Number,Preparation Time (min),Order Time,Branch,Status,Current Status,Method
+nora,Cappuccino,Medium,More,Less,Whipped Cream,7,3125,9,11/9/2024 14:42,Manjung,Preparing,Preparing,FPX
+farah,Latte,Small,Hot,More,,7.5,1943,14,12/9/2024 9:30,Seri Iskandar,Preparing,Preparing,FPX
+zain,Caramel Macchiato,Large,Hot,No,,8,8623,10,13/9/2024 13:10,Seri Iskandar,Preparing,Preparing,FPX
+amir,Americano,Medium,Less,No,Whipped Cream,6,6389,8,14/9/2024 16:45,Ipoh,Preparing,Preparing,FPX
+siti,Cappuccino,Small,Hot,More,Milk,7,1247,7,15/9/2024 10:22,Seri Iskandar,Preparing,Preparing,FPX
+ali,Latte,Medium,Less,No,Milk,7.5,7249,9,16/9/2024 11:50,Manjung,Preparing,Preparing,FPX
+siti,Americano,Small,Hot,No,,6,9795,15,24/11/2024 1:24,Seri Iskandar,Preparing,FPX,5%-9639
+siti,Americano,Small,Hot,No,,6,3485,6,24/11/2024 1:26,Seri Iskandar,Preparing,FPX,5%-4109
+siti,Americano,Small,Hot,No,,6,3121,15,24/11/2024 1:27,Seri Iskandar,Preparing,FPX,No Coupons Available
+syarifah,Americano,Large,Hot,No,,6,4318,5,24/11/2024 3:23,Seri Iskandar,Preparing,FPX,5%-5843
+syarifah,Americano,Small,Hot,No,,6,2420,9,24/11/2024 3:24,Seri Iskandar,Preparing,FPX,5%-1100
+chop,Latte,Small,Hot,No,"Milk, Whipped Cream",7.5,7934,5,24/11/2024 12:44,Seri Iskandar,Preparing,Ready for Pickup,No Coupons Available
